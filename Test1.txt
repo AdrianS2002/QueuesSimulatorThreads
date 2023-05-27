@@ -1,0 +1,307 @@
+Current time:0
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:1
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:2
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:3
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:4
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:5
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:6
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:7
+Queues{idQ=0 ,clients=[Client{id=1, arrivalTime=7, serviceTime=4}]}
+Queues{idQ=1 ,clients=[Client{id=2, arrivalTime=7, serviceTime=2}]}
+
+[Client{id=1, arrivalTime=7, serviceTime=4}, Client{id=2, arrivalTime=7, serviceTime=2}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:8
+Queues{idQ=0 ,clients=[Client{id=1, arrivalTime=7, serviceTime=3}]}
+Queues{idQ=1 ,clients=[Client{id=2, arrivalTime=7, serviceTime=1}]}
+
+[Client{id=1, arrivalTime=7, serviceTime=3}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:9
+Queues{idQ=0 ,clients=[Client{id=1, arrivalTime=7, serviceTime=2}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=2}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:10
+Queues{idQ=0 ,clients=[Client{id=1, arrivalTime=7, serviceTime=1}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:11
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:12
+Queues{idQ=0 ,clients=[Client{id=3, arrivalTime=12, serviceTime=4}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=4}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:13
+Queues{idQ=0 ,clients=[Client{id=3, arrivalTime=12, serviceTime=3}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=3}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:14
+Queues{idQ=0 ,clients=[Client{id=3, arrivalTime=12, serviceTime=2}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=2}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:15
+Queues{idQ=0 ,clients=[Client{id=3, arrivalTime=12, serviceTime=1}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:16
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:17
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:18
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:19
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:20
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:21
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:22
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:23
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:24
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:25
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:26
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:27
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:28
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:29
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:30
+Queues{idQ=0 ,clients=[Client{id=0, arrivalTime=30, serviceTime=4}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=4}]
+Current time:31
+Queues{idQ=0 ,clients=[Client{id=0, arrivalTime=30, serviceTime=3}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=3}]
+Current time:32
+Queues{idQ=0 ,clients=[Client{id=0, arrivalTime=30, serviceTime=2}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=2}]
+Current time:33
+Queues{idQ=0 ,clients=[Client{id=0, arrivalTime=30, serviceTime=1}]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:34
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:35
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:36
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:37
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:38
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:39
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:40
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:41
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:42
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:43
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:44
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:45
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:46
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:47
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:48
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:49
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:50
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:51
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:52
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:53
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:54
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:55
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:56
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:57
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:58
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+Current time:59
+Queues{idQ=0 ,clients=[]}
+Queues{idQ=1 ,clients=[]}
+
+[Client{id=1, arrivalTime=7, serviceTime=1}, Client{id=2, arrivalTime=7, serviceTime=1}, Client{id=3, arrivalTime=12, serviceTime=1}, Client{id=0, arrivalTime=30, serviceTime=1}]
+0
+5.0
+4.0
+1
+2.0
+2.0
+Peakhour: 7 with 2 clients
